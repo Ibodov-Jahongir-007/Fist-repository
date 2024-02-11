@@ -1,0 +1,15 @@
+@media (max-width:1200px) {
+    .container {
+        width: 900px;
+        background-color: aqua;
+    }
+
+    .header {
+        width: 882px;
+    }
+
+    .works {
+        display: block;
+        width: 900px;
+    }
+}
